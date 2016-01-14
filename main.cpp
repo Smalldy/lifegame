@@ -1,21 +1,5 @@
 ﻿#include <iostream>
 
-/*
-生命类
-
-
-
-*/
-class LIFE
-{
-
-
-
-
-
-
-};
-
 class WORLDMAP
 {
 private:
